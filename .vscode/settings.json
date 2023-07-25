@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "dbcon",
+            "database": "${workspaceFolder:flexible_sample}/db.sqlite"
+        }
+    ]
+}

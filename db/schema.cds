@@ -2,7 +2,7 @@ namespace flex;
 
 using { managed } from '@sap/cds/common';
 
-entity Orders : managed
+entity Orders:managed 
 {
     key ID : UUID
         @title : 'UUID';
@@ -17,7 +17,7 @@ entity Orders : managed
         @title : 'Customer';
 }
 
-entity Items : managed
+entity Items:managed 
 {
     key ID : UUID
         @title : 'UUID';
