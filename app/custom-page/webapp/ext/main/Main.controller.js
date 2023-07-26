@@ -12,6 +12,11 @@ sap.ui.define(
              * @memberOf com.sodogan.custompage.ext.main.Main
              */
               onInit: function () {
+                // let _btnSearch = this.byId("com.sodogan.custompage::OrdersMain--FilterBar-content-btnSearch");
+                // let _btnSearchHandler=  (oEvent)=>{
+                //       debugger;
+                // };
+                // _btnSearch.attachPress(_btnSearchHandler,this);
                 debugger;
               },
 
